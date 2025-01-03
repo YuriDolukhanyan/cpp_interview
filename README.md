@@ -1,5 +1,5 @@
 This repository contains materials licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-Original work by [huihut/interview]. See [[link to the original repository](https://github.com/huihut/interview)] [https://interview.huihut.com/#/en] for more details.
+Original work by [huihut/interview]. See [https://github.com/huihut/interview] OR [https://interview.huihut.com/#/en] for more details.
 
 This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C / C ++ technology, including language, program library, data structure, algorithm, system, network, link loading library and other knowledge and interview experience, recruitment, internal push, etc. information.
 
