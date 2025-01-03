@@ -1,11 +1,5 @@
-📚 This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C / C ++ technology, including language, program library, data structure, algorithm, system, network, link loading library and other knowledge and interview experience, recruitment, internal push, etc. information.
+This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C / C ++ technology, including language, program library, data structure, algorithm, system, network, link loading library and other knowledge and interview experience, recruitment, internal push, etc. information.
 
-
-💡 Side directory support methods:[📚 Docsify Doc](https://interview.huihut.com)、[Github + TOC navigation](https://github.com/jawil/GayHub)（[TOC preview.png](https://raw.githubusercontent.com/huihut/interview/master/images/TOC预览.png)）
-
-📄 Save as PDF: Use the Chrome browser to open the <a href="https://interview.huihut.com"> 📚 Docsify document </a> page, shrink the left directory-right click-print-select the target printer is Save as PDF-Save ( [Print Preview.png](https://raw.githubusercontent.com/huihut/interview/master/images/PrintPreview.png) )
-
-🙏 If there are any errors or improvements in the contents of the warehouse, issues or pr are welcome. Suggestions or discussions can be submitted at [# 12](https://github.com/huihut/interview/issues/12). Due to my limited level, the knowledge points in the warehouse are from my original, reading notes, books, blog posts, etc. Non-original has been marked with the source, if there is any omission, please issue an issue. This warehouse follows the [CC BY-NC-SA 4.0](https://github.com/huihut/interview/blob/master/LICENSE) agreement, please indicate the source for the reprint, and may not be used for commercial purposes.
 
 </details>
 
