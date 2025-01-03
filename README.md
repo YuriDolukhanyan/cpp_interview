@@ -1,20 +1,3 @@
-<div align="center">
-📖 Github
-&emsp;&emsp; | &emsp;&emsp;
-<a href="https://interview.huihut.com">📚 Docsify</a>
-</div> 
-<br>
-
-<div align="center">
-<a href="https://github.com/huihut/interview/">简体中文</a>
-&emsp;&emsp; | &emsp;&emsp;
-English
-</div> 
-<br>
-	
-<b><details><summary>💡 ON</summary></b>	
-
-
 📚 This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C / C ++ technology, including language, program library, data structure, algorithm, system, network, link loading library and other knowledge and interview experience, recruitment, internal push, etc. information.
 
 
